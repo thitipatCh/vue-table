@@ -50,7 +50,7 @@
     </div>
     <div class="centerx popup">
       <vs-button @click="popupActivo = true" color="primary" type="border"
-        >Open Default popup</vs-button
+        >View Chart</vs-button
       >
       <vs-popup class="holamundo" title="Chart Data" :active.sync="popupActivo">
         <div class="small">
